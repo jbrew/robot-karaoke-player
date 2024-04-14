@@ -2,7 +2,7 @@
 
 Web player for karaoke songs with procedurally generated replacement lyrics.
 
-## Robot karaoke data format
+## Data format
 
 Files are `.jsonl` ("JSON lines") which means newline-separated json objects. Spec: https://jsonlines.org/
 
