@@ -23,6 +23,6 @@ timestamps: ?number[], Syllable onset times in seconds, relative to the start of
 
 Token:
 text: string,
-vowels: ?string[],
-phones: string[],
+vowels: string[],
+phones: ?string[],
 stresses: string[],
