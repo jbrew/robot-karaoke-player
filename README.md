@@ -13,7 +13,7 @@ artist: string
 url: string
 ```
 
-All remaining lines of the file represent lines of lyrics:
+Each remaining line of the file represents a line of lyrics:
 ```
 originalText: string, The lyrics of the original song.
 originalTokens: Token[], Text with same number of syllables as the original text.
